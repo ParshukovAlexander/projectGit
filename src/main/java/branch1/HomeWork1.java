@@ -5,6 +5,6 @@ public class HomeWork1 {
 
     }
     private static final void getText(){
-        System.out.println("hello word!");
+        System.out.println("hello word");
     }
 }
